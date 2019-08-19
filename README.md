@@ -6,4 +6,5 @@ Authors:
  - Stanislav Ivashkevich
  
 Video presentation: https://www.youtube.com/watch?v=2vEgA8UW_Lg
+
 Kaggle's What's Cooking competition: https://www.kaggle.com/c/whats-cooking/overview
